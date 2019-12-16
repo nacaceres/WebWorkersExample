@@ -13,4 +13,4 @@ cd PaginaPersonalNicolasCaceres
 reload -b
 ```
 # Licencia
-El autor del proyecto PaginaPersonalNicolasCaceres es [Nicolás Alberto Cáceres Acosta](https://github.com/nacaceres) y la licencia de este proyecto es licencia MIT. (http://opensource.org/licenses/MIT) 
+El autor del proyecto PaginaPersonalNicolasCaceres es [Nicolás Alberto Cáceres Acosta](https://github.com/nacaceres) y la licencia de este proyecto es licencia MIT. (https://github.com/nacaceres/WebWorkersExample/blob/master/LICENSE) 
